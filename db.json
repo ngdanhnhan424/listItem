@@ -1,5 +1,5 @@
 {
   "items": [
-    {id: 1, name: 'lucas', age: 25}
+    {"id": "1", "name": "lucas", "age": "25"}
   ]
 }
